@@ -2,8 +2,8 @@ import { createClient } from "https://cdn.jsdelivr.net/npm/@supabase/supabase-js
 
 // ★ ganti ke kredensialmu sendiri
 const supabase = createClient(
-    'https://gfdkeutgojqefygoxnow.supabase.co',
-    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdmZGtldXRnb2pxZWZ5Z294bm93Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDk4Mjk5NDksImV4cCI6MjA2NTQwNTk0OX0.vWQ70YA7egXTLg8glagWKhhjmIqpohxByA5Vgnv_eMk'
+    'https://yxokgrpbdaleugehvqle.supabase.co',
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inl4b2tncnBiZGFsZXVnZWh2cWxlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDk5MTI3NjcsImV4cCI6MjA2NTQ4ODc2N30.GyeDaUCeTUHbLDp3VsR7ixchQSvGtCcCi2QARpfFaZ4'
   );
 
 
